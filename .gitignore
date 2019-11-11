@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# the original data base, because it is huge
+.data/
+.crime_records.csv
